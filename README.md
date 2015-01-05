@@ -1,7 +1,7 @@
 JSP & Servlets Demo
 ===================
 
-This is a basic shopping cart application utilizing JSP & Servlets + H2 embedded database.
+This is a basic shopping cart application utilizing JSP & Servlets as well as an in-memory H2 embedded database.
 
-If interested, please see the [JSP & Servlets Demo Page](http://chrisbaileydeveloper.com/projects/springmvc/) on my website where I briefly discuss the application.
+If interested, please see the [JSP & Servlets Demo Page](http://chrisbaileydeveloper.com/projects/jsp-servlets-demo-page/) on my website where I briefly discuss the application.
 
